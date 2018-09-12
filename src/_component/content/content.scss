@@ -1,0 +1,28 @@
+.content,
+.second-content {
+  padding: 1rem 3rem;
+  margin-top: 1rem;
+  line-height: 1.2rem;
+  color: $color-black-grey;
+}
+
+.item-list {
+  margin-top: inherit;
+  font-weight: bold;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem auto;
+  padding: 1rem ;
+  font-size: 2rem;
+  font-weight: bold;
+  color: $color-atlantis;
+}
+
+.paragraph-list {
+  margin-top: inherit;
+}
+

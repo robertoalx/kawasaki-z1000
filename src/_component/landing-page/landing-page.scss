@@ -1,24 +1,22 @@
-.landing-page {
-  height: 100%;
-  // background-color: $color-black-grey;
-}
-
 .landing-page__name {
   min-height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1rem;
+  padding-top: 0.1rem;
   font-size: 2rem;
+  color: $color-atlantis;
 }
 
 .landing-page__photo-1 {
-  max-width: 100%;
+  max-width: 95%;
   margin: 0.1rem auto;
   display: flex;
+  justify-content: center;
 }
 
 .landing-page__paragraph {
-  padding: 1rem 0.1rem;
+  padding: 1rem;
   padding-top: 0;
+  color: $color-black-grey;
 }
